@@ -81,3 +81,5 @@ https://xz.aliyun.com/t/9488
 
 [![Stargazers over time](https://starchart.cc/fz1lin/SwordHost.svg)](https://starchart.cc/fz1lin/SwordHost)
 
+
+注：由于其他原因，不在更新最新版本，采取贡献者模式，也就是，需要提供建议，可以发送首页的邮箱，具体添加那些功能，需要改进的，如果被采纳，可以获得内部最新版本。
